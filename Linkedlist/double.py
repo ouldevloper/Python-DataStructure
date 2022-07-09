@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
 
-from turtle import left
-
 
 class Node:
     def __init__(self,item,back=None,head=None):
